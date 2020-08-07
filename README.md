@@ -2,12 +2,12 @@
 
 | block size | image                                             |
 | ---------- | ------------------------------------------------- |
-| raw image  | ![](/home/edan/workspace/pixellate/gifs/raw.gif)  |
-| 5px        | ![](/home/edan/workspace/pixellate/gifs/5px.gif)  |
-| 10px       | ![](/home/edan/workspace/pixellate/gifs/10px.gif) |
-| 15px       | ![](/home/edan/workspace/pixellate/gifs/15px.gif) |
-| 25px       | ![](/home/edan/workspace/pixellate/gifs/25px.gif) |
-| 50px       | ![](/home/edan/workspace/pixellate/gifs/50px.gif) |
+| raw image  | ![](gifs/raw.gif)  |
+| 5px        | ![](gifs/5px.gif)  |
+| 10px       | ![](gifs/10px.gif) |
+| 15px       | ![](gifs/15px.gif) |
+| 25px       | ![](gifs/25px.gif) |
+| 50px       | ![](gifs/50px.gif) |
 
 ## Analysis:
 
