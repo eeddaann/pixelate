@@ -13,5 +13,4 @@
 
 The following graph represents the variance of the laplacian over time for each block size:
 
-![](/home/edan/workspace/pixellate/over_time.png)
-
+![](over_time.png)
